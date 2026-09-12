@@ -1,0 +1,14 @@
+{
+  "propertyId": "PROP-001",
+  "surveyNumber": "SURVEY-2024-001",
+  "ownerName": "Rajesh Kumar",
+  "ownerWallet": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "location": "Sector 45, Gurgaon, Uttar Pradesh, India",
+  "area": 2500,
+  "areaUnit": "sq ft",
+  "propertyType": "Residential",
+  "registrationDate": "2024-01-15",
+  "landRecordNumber": "LR-NO-2024-00123",
+  "zoning": "Residential R-2",
+  "documentHash": ""
+}

@@ -1,0 +1,44 @@
+{
+  "name": "blockchain-land-registry",
+  "version": "1.0.0",
+  "description": "Blockchain-Based Land Registry & Property Ownership System - an Ethereum + Solidity prototype that simulates property registration, ownership transfer, verification and transaction history on a public ledger.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "node node_modules/hardhat/internal/cli/bootstrap.js compile",
+    "test": "node node_modules/hardhat/internal/cli/bootstrap.js test",
+    "node": "node node_modules/hardhat/internal/cli/bootstrap.js node",
+    "deploy": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js --network localhost",
+    "seed": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/seed.js --network localhost",
+    "simulate": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/simulate.js --network localhost",
+    "deploy:local": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js",
+    "simulate:local": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/simulate.js",
+    "simulate:sepolia": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/simulate.js --network sepolia",
+    "demo": "powershell -NoProfile -ExecutionPolicy Bypass -File start-demo.ps1"
+  },
+  "keywords": [
+    "blockchain",
+    "solidity",
+    "ethereum",
+    "land-registry",
+    "smart-contract",
+    "hardhat",
+    "defi"
+  ],
+  "author": "Student Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.12",
+    "@openzeppelin/contracts": "^5.0.2",
+    "chai": "^4.5.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.16"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

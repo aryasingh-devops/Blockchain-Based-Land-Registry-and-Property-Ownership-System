@@ -1,0 +1,14 @@
+{
+  "propertyId": "PROP-002",
+  "surveyNumber": "SURVEY-2024-002",
+  "ownerName": "Priya Sharma",
+  "ownerWallet": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "location": "MG Road, Bangalore, Karnataka, India",
+  "area": 1800,
+  "areaUnit": "sq ft",
+  "propertyType": "Commercial",
+  "registrationDate": "2024-03-22",
+  "landRecordNumber": "LR-NO-2024-00456",
+  "zoning": "Commercial C-1",
+  "documentHash": ""
+}
