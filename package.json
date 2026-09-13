@@ -13,7 +13,12 @@
     "deploy:local": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/deploy.js",
     "simulate:local": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/simulate.js",
     "simulate:sepolia": "node node_modules/hardhat/internal/cli/bootstrap.js run scripts/simulate.js --network sepolia",
-    "demo": "powershell -NoProfile -ExecutionPolicy Bypass -File start-demo.ps1"
+    "demo": "powershell -NoProfile -ExecutionPolicy Bypass -File start-demo.ps1",
+    "dev": "npm --prefix frontend run dev",
+    "start": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "build:ui": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
   },
   "keywords": [
     "blockchain",
