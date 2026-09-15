@@ -1,5 +1,13 @@
 # Blockchain-Based Land Registry & Property Ownership System
 
+## 📸 Output Screenshots
+(<Screenshot 2026-09-12 182644.png>)
+(<Screenshot 2026-09-12 182656.png>)
+(<Screenshot 2026-09-12 182705.png>)
+
+## 🎥 Demo Video
+https://youtu.be/TIJqWw9D8sU?si=CcXK23HW0T2i6r0E
+
 **Educational blockchain prototype** for tamper-evident property registration, verification, ownership transfer, and auditable on-chain ownership history — built with Solidity, Hardhat, Ethers.js, and React.
 
 > ⚠️ **Educational Disclaimer**: This project uses **dummy/synthetic data only**. It is a learning prototype and does **NOT** create legally valid property ownership, nor does it connect to real government land records. A production system requires government authority, legal identity, cadastral databases, courts, and compliance with property law.
