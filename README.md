@@ -1,9 +1,9 @@
 # Blockchain-Based Land Registry & Property Ownership System
 
 ## 📸 Output Screenshots
-(<Screenshot 2026-09-12 182644.png>)
-(<Screenshot 2026-09-12 182656.png>)
-(<Screenshot 2026-09-12 182705.png>)
+<img width="1920" height="1020" alt="Screenshot 2026-09-12 182644" src="https://github.com/user-attachments/assets/53c40171-bc4a-4a19-b40c-9c5cae658390" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-12 182656" src="https://github.com/user-attachments/assets/2a288582-bcd5-4e60-bb26-b67d4542b265" />
+<img width="1920" height="1020" alt="Screenshot 2026-09-12 182705" src="https://github.com/user-attachments/assets/ba6370df-2630-4202-82dd-e2cc603f93f1" />
 
 ## 🎥 Demo Video
 https://youtu.be/TIJqWw9D8sU?si=CcXK23HW0T2i6r0E
